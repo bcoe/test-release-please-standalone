@@ -1,7 +1,5 @@
-# Testing Release Please
+# Demonstrating Release Please Functionality
 
-Here are the basic steps:
-
-This demonstrates release-please's behavior.
-
+release-please allows you to automate the GitHub releases based on conventional
+commit messages.
 
